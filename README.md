@@ -146,7 +146,7 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
   
 ### 💡 *"The best code is the code that solves real problems"*
 
-**⭐ If you find my work interesting, consider starring my repositories!**
+**⭐ If you find my work interesting, consider starring my repositories !**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
